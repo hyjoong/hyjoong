@@ -10,12 +10,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
   
-  ## Tech Blog
-  <a href="https://velog.io/@hyunjoong"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyunjoong"/></a>   
+<!--  ## Tech Blog
+  <a href="https://velog.io/@hyunjoong"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyunjoong"/></a>   -->
   
   
-   ## Articles
-  - [klush 프로젝트 후기](https://velog.io/@hyunjoong/klush-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+<!--   ## Articles  -->
  
   
   <h3 align="center">📌 Github Stats</h3>
